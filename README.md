@@ -1,3 +1,3 @@
 # bugTest
 
-by Collaborator
+by Me
